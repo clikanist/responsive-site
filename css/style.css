@@ -36,6 +36,7 @@ a {
   margin-right: auto; }
 
 .flexible-images {
+  background-size: cover;
   max-width: 100%;
   height: auto; }
 
