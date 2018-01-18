@@ -40,6 +40,13 @@ a {
   max-width: 100%;
   height: auto; }
 
+.box {
+  background-image: url("../images/landscape-1802337_1920.jpg");
+  background-size: cover;
+  max-width: 100%;
+  height: 250px;
+  background-position: center center; }
+
 /* Contents
 ------------------------------------------------------------*/
 section {
@@ -81,7 +88,14 @@ section {
 
   .flexible-images {
     width: 100%;
-    height: 500px; } }
+    height: 500px; }
+
+  .box {
+    background-image: url("../images/landscape-1802337_1920.jpg");
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center center; } }
 #contacts .button-readmore {
   margin: auto;
   text-align: center;
